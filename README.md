@@ -8,6 +8,7 @@ And added Claude Code , Codex but couldn't login as neither of them are free.
 Signed up into github and created a README.md public repository
 
 — What steps you completed
+
 Installation of cursor
 Explored how to add extensions
 Installation of Claude Code and tried to login
@@ -17,6 +18,7 @@ Learned how to sync GitHub into Cursor
 and cloned it to Cursor
 
 — What issues you ran into and how you solved them
+
 Oh god! Never knew what Cursor is to start with, had to look up it.
 Installed cursor, then comes the first and foremost issue, how to navigate Cursor.
 Took me a good 20 mins to undrstand how to add an extension, obviously all thanks to my buddy
