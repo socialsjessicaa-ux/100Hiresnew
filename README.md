@@ -4,7 +4,7 @@ A sample of everything I did
 — What tools you installed
 
 I installed Cursor IDE
-And added Claude Code , Codex but couldn't login as neither of them are free
+And added Claude Code , Codex but couldn't login as neither of them are free.
 Signed up into github and created a README.md public repository
 
 — What steps you completed
