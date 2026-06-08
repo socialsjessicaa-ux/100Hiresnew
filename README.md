@@ -1,5 +1,6 @@
 # 100Hiresnew
 A sample of everything I did
+
 — What tools you installed
 I installed Cursor IDE
 And added Claude Code , Codex but couldn't login as neither of them are free
