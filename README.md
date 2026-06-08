@@ -1,5 +1,5 @@
 # 100Hiresnew
-A sample of everything I did
+An Overview of everything I did
 
 — What tools you installed
 
