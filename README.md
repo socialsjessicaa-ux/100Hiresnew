@@ -11,7 +11,8 @@ Explored how to add extensions
 Installation of Claude Code and tried to login
 Installation of Codex and tried to login
 Signed up into GitHub & created a README.md repository
-Learned how to sync GitHub into Cursor 
+Learned how to sync GitHub into Cursor
+and cloned it to Cursor
 
 — What issues you ran into and how you solved them
 Oh god! Never knew what Cursor is to start with, had to look up it.
